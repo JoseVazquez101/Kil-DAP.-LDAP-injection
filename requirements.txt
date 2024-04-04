@@ -1,0 +1,4 @@
+requests
+pwntools
+string
+subprocess
