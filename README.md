@@ -1,4 +1,4 @@
-# Kil-DAP. Use
+# KilL-DAP. Use
 
 This repository contains two scripts designed for penetration testing purposes, focusing on user enumeration and data extraction from a web application.
 
